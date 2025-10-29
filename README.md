@@ -1,5 +1,5 @@
 
-# A novel recommender system using graph convolutional matrix completion and personalized knowledge-aware attention sub-network
+# KGCMC: A Hybrid Approach Combining Graph Convolutional Matrix Completion and Knowledge-Aware Attention for Recommender Systems
 
  
 This is our implementation for the following paper:
